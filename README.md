@@ -1,0 +1,2 @@
+# encryptix
+ internship tasks 
